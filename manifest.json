@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "app": "penguin",
+  "global": "__sveltekit_4ar23a",
+  "start": "_app/immutable/entry/start.CWoLO64F.js",
+  "appEntry": "_app/immutable/entry/app.yLVdjPWN.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/penguin-dist/_app/immutable/entry/start.CWoLO64F.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/chunks/BiiwJQHD.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/chunks/CiuLsXXn.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/chunks/DIvOuSCd.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/entry/app.yLVdjPWN.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/chunks/C1FmrZbK.js",
+    "https://yissok.github.io/penguin-dist/_app/immutable/chunks/HHCbWf8g.js"
+  ]
+}
